@@ -2,6 +2,7 @@ The MIT License
 ---------------
 
 Copyright (c) 2015 Hal Gatewood
+
 Copyright (c) 2020 Michael Otieno
 
 Permission is hereby granted, free of charge, to any person obtaining 
