@@ -668,7 +668,7 @@ if (empty($title)) {
     <footer id="footer" class="footer">
         <div class="container"> 
             <p class="footer-signature">
-                <a class="footer-link" href="https://github.com/mikeotizels/dirlister/2.0.0/" target="_blank" rel="noopener noreferrer nofollow">Proudly Served by DirLister</a>
+                <a class="footer-link" href="https://github.com/mikeotizels/dirlister/" target="_blank" rel="noopener noreferrer nofollow">Proudly Served by DirLister</a>
             </p>
         </div><!-- .container -->     
     </footer><!-- #footer -->
